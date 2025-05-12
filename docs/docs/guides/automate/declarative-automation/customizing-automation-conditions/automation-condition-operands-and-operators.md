@@ -1,6 +1,6 @@
 ---
 description: Operands and operators that you can use to customize Dagster Declarative Automation conditions.
-sidebar_position: 100
+sidebar_position: 400
 title: Automation conditions operands and operators
 ---
 

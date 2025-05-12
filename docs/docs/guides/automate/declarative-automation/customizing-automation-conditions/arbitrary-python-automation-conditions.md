@@ -1,6 +1,6 @@
 ---
 description: Define custom AutomationConditions in Dagster to execute arbitrary Python code to handle complex business logic.
-sidebar_position: 400
+sidebar_position: 600
 title: Arbitrary Python automation conditions
 ---
 
